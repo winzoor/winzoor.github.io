@@ -34,10 +34,18 @@ $decoded = json_decode($content, true);
 $nombre = $decoded['nombre'];
 $telefono = $decoded['telefono'];
 $correo = $decoded['correo'];
+$direccion = $decoded['direccion'];
+$codigo_postal = $decoded['codigo_postal'];
+$ciudad = $decoded['ciudad'];
+$estado = $decoded['estado'];
+$pais = $decoded['pais'];
 $mensaje = $decoded['mensaje'];
 
-$message = "<p>¡Hola!</p>";
-$message .= "Prospecto<br>Nombre Completo: <b>$nombre</b><br>Tel. <b>$telefono</b><br>Email. <b>$correo</b><br>";
+$message = "<p>¡Hola!, hemos recibido una nueva solicitud.</p>";
+$message .= "<b>Nombre Completo</b> $nombre<br>";
+$message .= "<b>Tel.</b> $telefono<br>";
+$message .= "<b>Email</b> $correo<br>";
+$message .= "<b>Dirección</b> $direccion, $codigo_postal, $ciudad, $estado, $pais<br>";
 $message .= "<p>Les escribo para solicitar lo descrito en el siguiente mensaje:<br><br>$mensaje</p>";
 
 $to_email = 'samuel.bonilla.041@gmail.com';
