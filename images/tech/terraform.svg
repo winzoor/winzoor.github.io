@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="52" height="52">
+	<title>terraform-svgrepo-com-svg</title>
+	<style>
+		.s0 { fill: #4040b2 } 
+		.s1 { fill: #5c4ee5 } 
+	</style>
+	<path id="Layer" class="s0" d="m48 20.4v11.5l-9.9 5.7v-11.4z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m27 20.4l10 5.8v11.4l-10-5.7c0 0 0-11.5 0-11.5zm-1.1-0.7v11.5l-9.9-5.7v-11.5zm1.1 13.4l9.9 5.7v11.5l-9.9-5.7c0 0 0-11.5 0-11.5z"/>
+</svg>

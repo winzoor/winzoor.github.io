@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" width="52" height="52">
+	<title>Proyecto nuevo</title>
+	<defs>
+		<image width="160" height="240" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDE2MCAyNDAiPjxnIGlkPSJsb2dvIiBmaWxsPSIjNDY2QkIwIj48cG9seWdvbiBpZD0iaHVsbCIgcG9pbnRzPSIwIDIxMCAxNjAgMjEwIDYwIDI0MCIvPjxwb2x5Z29uIGlkPSJtYWluc2FpbCIgcG9pbnRzPSIwIDIwMCA2MCAxOTAgNjAgODAiLz48cG9seWdvbiBpZD0iaGVhZHNhaWwiIHBvaW50cz0iNzAgMTkwIDE2MCAyMDAgNzAgMCIvPjwvZz48L3N2Zz4="/>
+		<image  width="52" height="52" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0AQMAAAD/tomoAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAOSURBVHicY2AYBYMZAAABoAABkA5poAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="istio" href="#img1" transform="matrix(.217,0,0,.217,9,0)"/>
+	<use id="Background" href="#img2" x="0" y="0"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="52" height="52">
+	<title>elastic-kibana-svg</title>
+	<style>
+		.s0 { fill: #e9478b } 
+		.s1 { fill: #3ebeb0 } 
+		.s2 { fill: #37a595 } 
+		.s3 { fill: #353535 } 
+		.s4 { fill: none } 
+	</style>
+	<path id="Layer" class="s0" d="m18.8 33.1v30.4-51h42.4l-21.4 25.7c-6-3.2-12.9-5.1-20.2-5.1z"/>
+	<path id="Layer" class="s1" d="m61.1 67.5h-42.3v-4l21-25.3c10.9 6 18.9 16.7 21.3 29.3z"/>
+	<path id="Layer" class="s2" d="m43.4 40.4c1.9 1.4 3.3 2.5 3.3 2.5l-20.4 24.6h-7.5v-4l21-25.3c0 0 2.2 1.2 3.6 2.2z"/>
+	<path id="Layer" class="s3" d="m39.8 38.2l-21 25.3v-30.4h0.8c7.3 0 14.2 1.9 20.2 5.1z"/>
+	<path id="Layer" class="s4" d="m0 0h80v80h-80z"/>
+</svg>
